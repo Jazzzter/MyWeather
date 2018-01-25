@@ -45,7 +45,8 @@ ul li {
     border-radius: 5px;
 }
 
-#weather-summary {
+#weather-summary, 
+#timezone {
     display: flex;
     justify-content: center;
     align-items: center;
